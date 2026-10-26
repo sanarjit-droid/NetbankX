@@ -1,4 +1,5 @@
-# PaySafe — Banking Network & Packet Simulation
+# NETBANKX — Banking Network & Packet Simulation
+
 
 An educational full-stack demo combining fictional banking workflows, an append-only-style ledger, a hierarchical enterprise network, Dijkstra routing, event-based packet simulation and an AES-256-GCM tampering demonstration. No real banking, payment rails or funds are connected.
 
